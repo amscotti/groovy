@@ -1,6 +1,7 @@
 language: groovy
 jdk:
   - oraclejdk11
+  - oraclejdk13
 
 sudo: false
 
